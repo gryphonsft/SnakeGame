@@ -5,7 +5,7 @@ import time
 hiz = 0.13
 pencere = turtle.Screen()
 pencere.title('Yılan Oyunu')
-pencere.bgcolor('lightgreen')
+pencere.bgcolor('white')
 pencere.setup(width=600, height=600)
 pencere.tracer(0)
 
@@ -77,7 +77,7 @@ while True:
         yenikuyruk = turtle.Turtle()
         yenikuyruk.speed(0)
         yenikuyruk.shape('square')
-        yenikuyruk.color('white')
+        yenikuyruk.color('black')
         yenikuyruk.penup()
         kuyruklar.append(yenikuyruk)
 
