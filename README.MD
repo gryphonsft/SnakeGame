@@ -7,6 +7,6 @@ Klavyede yön tuşlarını kullanarak yılanı hareket ettirebilirsiniz.
 
 
 ## Diğer Projelerim
-[WhileDöngüsüileSwitchKullanımı](http://a.com)
+[WhileDöngüsüileSwitchKullanımı](https://github.com/gryphonsft/WhileDongusuyleSwitchKullanimi)
 [WindowsFormKullanıcıKaydı](https://github.com/gryphonsft/WindowsFormKullaniciKaydi)		
 
